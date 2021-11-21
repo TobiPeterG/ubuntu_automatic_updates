@@ -54,6 +54,8 @@
   
 # INSTALLATION
 
+  0. __MAKE SURE YOU HAVE UBUNTU 22.04 OR HIGHER INSTALLED__
+
   1. Clone this Repository & extract the zip
   
   2. make install.sh executable (right click on the file
@@ -64,8 +66,6 @@
   That's it! Enjoy!
   
 # REMOVAL
-
-  0. __MAKE SURE YOU HAVE UBUNTU 22.04 OR HIGHER INSTALLED__
   
   1. make uninstall.sh executable (right click on the file
   -> properties -> permissions tab -> "is executable"
