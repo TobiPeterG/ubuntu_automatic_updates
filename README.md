@@ -4,10 +4,14 @@
   THE SYSTEM UNUSABLE ON OTHER INSTALLATIONS!
   USE AT YOUR OWN RISK!
   
+ __Using Manjaro-Linux? Have a look here: https://github.com/TobiPeterG/manjaro_automatic_updates__
+  
   This script will install my custom script to update your
   system when it's being shutdown. It is tested on Kubuntu
-  21.04 and 21.10, but should work with future versions as
-  well.
+  21.04 and 21.10 __AND DOES NOT WORK RELIABLY AT THE MOMENT!
+  A FIX WILL BE AVAILABLE WITH UBUNTU 22.04!__
+  
+  __DO NOT USE IT WITH A VERSION PRIOR TO THAT!__
 
   The script requires root privileges to copy the
   files to the corresponding locations.
@@ -60,6 +64,8 @@
   That's it! Enjoy!
   
 # REMOVAL
+
+  0. __MAKE SURE YOU HAVE UBUNTU 22.04 OR HIGHER INSTALLED__
   
   1. make uninstall.sh executable (right click on the file
   -> properties -> permissions tab -> "is executable"
